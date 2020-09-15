@@ -1,0 +1,24 @@
+[33mcommit e32689d2e64d45e362589ea6cdb39ea6ef59ec92[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 4e8d36e 6a51c63
+Author: Jose Mauricio <jmauricio.a.ferreira@gmail.com>
+Date:   Tue Sep 15 08:43:09 2020 -0300
+
+    Merge branch 'master' of https://github.com/jmauricioaferreira/animais-fantasticos
+
+[33mcommit 6a51c63f869ac9056b0fdded1975e8a1d8b59fff[m
+Author: José Mauricio Azevedo <jmauricio.a.ferreira@gmail.com>
+Date:   Tue Sep 15 08:30:51 2020 -0300
+
+    Initial commit
+
+[33mcommit 4e8d36e3fe2eeac3f224297f263b003bdd856990[m
+Author: Jose Mauricio <jmauricio.a.ferreira@gmail.com>
+Date:   Tue Sep 15 08:29:22 2020 -0300
+
+    Estilizacao do faq e contato
+
+[33mcommit af5beb2b4e1fb0d3a924664d58db71be7ff4812c[m
+Author: Jose Mauricio <jmauricio.a.ferreira@gmail.com>
+Date:   Mon Sep 14 20:05:56 2020 -0300
+
+    Criacao do menu e da secao de animais
