@@ -1,4 +1,4 @@
-# Animais Fantasticos
+# Animais Fantásticos
 
 ![Design of the website](./img/design.gif)
 
