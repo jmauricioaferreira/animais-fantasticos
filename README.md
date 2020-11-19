@@ -4,7 +4,7 @@
 
 ### Hi! 👋
 
-#### This illustrative Desktop website was created taking as an example a JAVASCRIPT class from https://www.origamid.com/
+#### Illustrative website created from the classes avaliable on https://www.origamid.com/
 
 
 
